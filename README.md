@@ -1,2 +1,3 @@
-# Prism-Refraction-Search
-Based on our paper: Prism refraction search: a novel physics-based metaheuristic algorithm
+# Prism Refraction Optimizer
+Official implementation of our paper **"Prism Refraction Optimizer: A Novel Physics-based Metaheuristic for Global Optimization"**.  
+ 
